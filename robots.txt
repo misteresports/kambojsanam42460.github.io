@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kambojsanam42460.github.io/sitemap.xml
